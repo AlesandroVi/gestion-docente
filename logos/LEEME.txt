@@ -1,0 +1,7 @@
+Poné acá los logos que van en el encabezado de las constancias (PNG o JPG):
+
+  logo_izquierdo.png  -> Ministerio de Educación y Cultura / Gobierno de Salta
+  logo_centro.png     -> escudo del instituto (va arriba del nombre)
+  logo_derecho.png    -> DGES
+
+Si falta alguno, ese lugar queda en blanco. Conviene usar imágenes con fondo blanco o transparente.

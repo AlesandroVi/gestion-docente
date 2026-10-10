@@ -1,0 +1,15 @@
+SISTEMA DE GESTIÓN DOCENTE - Notas de instalación
+
+1) Copiá estos archivos sobre tu proyecto (reemplazan a los anteriores).
+   Mantené TU Gestion.db en la misma carpeta que main.py: se actualiza sola
+   (agrega la columna "activo") y no se pierde ningún dato.
+2) Instalar dependencias:   pip install -r requirements.txt
+3) Ejecutar:                python main.py
+
+Carpetas: database/, crud/, certificados/, herramientas/ (cada una con su __init__.py).
+Los archivos nuevos son: config.py, ui.py, restablecer_clave.py, database/ajustes.py,
+database/consultas.py, database/seguridad.py, crud/academico.py, crud/validaciones.py,
+herramientas/*.
+
+La primera vez que abras el sistema te pide crear una contraseña.
+Si la olvidás: cerrá el sistema y ejecutá  python restablecer_clave.py

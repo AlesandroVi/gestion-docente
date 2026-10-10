@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datos reales del colegio (DNI, CUIL, emails): no subir
+*.db
+copias_de_seguridad/
+
+# PDFs generados con datos de docentes reales: no subir
+ejemplos/
